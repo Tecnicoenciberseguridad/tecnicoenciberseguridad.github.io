@@ -5,7 +5,7 @@ import tailwind from '@astrojs/tailwind';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://tecnicoenciberseguridad.github.io
+    site: 'https://tecnicoencriptacionseguridad.github.io
     integrations: [
         mdx(),
         sitemap(),
